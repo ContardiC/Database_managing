@@ -1,0 +1,6 @@
+MySQL PORT: 3306
+Root credentials:
+user: root
+password: root
+Apache PORT: 8888
+PHP Version: 7.2.1

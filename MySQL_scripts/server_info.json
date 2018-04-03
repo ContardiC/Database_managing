@@ -1,0 +1,7 @@
+[
+  {"MySQL-port":"3306"},
+  {"root-user":"root"},
+  {"root-password":"root"},
+  {"Apache-port":"8888"},
+  {"PHP version":"7.2.1"}
+]
