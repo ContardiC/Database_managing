@@ -5,4 +5,5 @@
  * Date: 03/04/18
  * Time: 11:14
  */
-echo "Hi there";
+echo "Hi there <BR>";
+echo "Server is running";
